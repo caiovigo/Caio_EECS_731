@@ -1,3 +1,3 @@
 # Caio_EECS_731
 
-#___
+# This is Caio's Project 1 (or HW1) for EECS 731 - Introduction to Data Science
